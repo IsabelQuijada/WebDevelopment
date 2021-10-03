@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+  font-family: Montserrat;
+  color: white;
+}
+
+h1,h2,h3{
+  text-align: center;
+  font-family: 'Lobster Two', cursive;
+}
+p {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  padding: 10px 30px;
+}
+div
+{
+  display: inline-block;
+}
+.one-third {
+  width: 32%;
+}
+img{
+  display:block;
+  margin:auto;
+  width: 80%; height: 80%
+
+}
